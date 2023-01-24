@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">W23_Layouts</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="hello_android_class">Hello</string>
+    <string name="password">Password</string>
+    <string name="user_name">User Name</string>
+    <string name="hello_relative_layout">Hello Relative layout</string>
+    <string name="erromsg">Error!! missing info</string>
+</resources>

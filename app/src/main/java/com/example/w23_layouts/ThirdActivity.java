@@ -31,6 +31,17 @@ public class ThirdActivity extends AppCompatActivity {
         passwordText = findViewById(R.id.passwordText);
         megText = findViewById(R.id.welcomeText);
 
+        Double d = new Double(3.4);
+        double e = 3.4;
+
+        Float f;
+        Integer i;
+        Character c ;
+
+        float fp;
+        int ip;
+        char cp;
+
         logInButton.setOnClickListener(new View.OnClickListener() {
             @SuppressLint("SetTextI18n")
             @Override
